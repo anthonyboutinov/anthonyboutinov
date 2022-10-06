@@ -8,7 +8,7 @@
 
 #### 📇  Contact Information
 
-- Behance: <a href="https://www.behance.net/anthonyboutinov">@anthonyboutinov</a>
+- Behance: ✨ <a href="https://www.behance.net/anthonyboutinov">@anthonyboutinov</a>
 - Github: <a href="https://github.com/anthonyboutinov">@anthonyboutinov</a>
 - Website: <a href="https://boutinov.com">boutinov.com</a>
 - Telegram: <a href="https://t.me/boutinov">@boutinov</a>
