@@ -25,6 +25,8 @@
 
 #### 📚  Courses
 
+2021, CodeWithChris.com courses: iOS Foundation & Design (Swift 5, SwiftUI, MVVM)
+
 2016–2018, TeamTreeHouse.com courses (<a href="https://teamtreehouse.com/anthonyboutinov">TreeHouse Profile page</a>): JavaScript, Grunt, REST API, MongoDB, CSS, Scrum, Swift, Brand Identity, Web Typography, UX/UI, Wire-Framing & Mockups, Prototyping, Accessibility
 
 ---
@@ -43,6 +45,7 @@
 - MongoDB
 - MySQL, OracleSQL
 - MeteorJS
+- Final Cut Pro
 
 ---
 
@@ -69,6 +72,12 @@
 - English — fluent
 - Dutch — elementary proficiency (A2)
 - Russian — native
+
+---
+
+#### 👨‍🏫  Teaching Experience
+
+2014, "Intoduction to iOS Development" module at olympiad programming center at Kazan Federal University (Objective-C Foundation, MVC)
 
 
 <!---
