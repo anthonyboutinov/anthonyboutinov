@@ -42,6 +42,7 @@
 - Git, GitHub
 - MongoDB
 - MySQL, OracleSQL
+- MeteorJS
 
 ---
 
