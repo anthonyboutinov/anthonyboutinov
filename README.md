@@ -77,18 +77,4 @@
 
 #### 👨‍🏫  Teaching Experience
 
-2014, "Intoduction to iOS Development" module at olympiad programming center at Kazan Federal University (Objective-C Foundation, MVC)
-
-
-<!---
-- 👋 Hi, I’m @anthonyboutinov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-
-<!---
-anthonyboutinov/anthonyboutinov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2014, "Intoduction to iOS Development" module, Olympiad Programming Center, Kazan Federal University (Objective-C Foundation, MVC)
