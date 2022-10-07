@@ -11,6 +11,7 @@
 - Behance: ✨ <a href="https://www.behance.net/anthonyboutinov">@anthonyboutinov</a>
 - Github: <a href="https://github.com/anthonyboutinov">@anthonyboutinov</a>
 - Website: <a href="https://boutinov.com">boutinov.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/boutinov">@boutinov</a>
 - Telegram: <a href="https://t.me/boutinov">@boutinov</a>
 - E-mail: <a href="mailto:anton4488@gmail.com">anton4488@gmail.com</a>
 <!-- - WhatsApp: <a href="https://wa.me/31626191937">+31 6 26 1919 37</a> -->
