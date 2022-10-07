@@ -46,6 +46,7 @@
 - MySQL, OracleSQL
 - MeteorJS
 - Final Cut Pro
+- Wordpress (as headless CMS)
 
 ---
 
