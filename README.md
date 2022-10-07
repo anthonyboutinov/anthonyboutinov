@@ -2,7 +2,7 @@
 
 👨‍💻  Web developer, graphic designer, UX/UI designer
 
-📍  Venlo, Limburg, Netherlands
+📍  Venlo, Limburg, The Netherlands
 
 👀  Currently looking for a job (near Venlo, Eindhoven, Nijmegen, or remote)
 
