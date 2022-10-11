@@ -20,7 +20,7 @@
 
 #### 👨‍🎓  Higher Education (Bachelor of ICT)
 
-2015, Kazan Federal University, Applied Mathematics and Information Technology
+Kazan Federal University, Applied Mathematics and Information Technology
 
 ---
 
@@ -44,7 +44,6 @@
 - Swift, SwiftUI
 - Git, GitHub
 - MongoDB
-- MySQL, OracleSQL
 - MeteorJS
 - Final Cut Pro
 - Wordpress (as headless CMS)
