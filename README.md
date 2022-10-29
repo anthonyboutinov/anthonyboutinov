@@ -6,6 +6,8 @@
 
 👀  Currently looking for a job (near Venlo, Eindhoven, Nijmegen, or remote)
 
+📃  <a href="Anthony%20Butinov%20-%20Web%20Developer%2C%20Graphic%20Designer%20-%20Resume.pdf">Complete Resume (.pdf)</a>
+
 #### 📇  Contact Information
 
 - Behance: ✨ <a href="https://www.behance.net/anthonyboutinov">@anthonyboutinov</a>
@@ -79,3 +81,7 @@ Kazan Federal University, Applied Mathematics and Information Technology
 #### 👨‍🏫  Teaching Experience
 
 2014, "Intoduction to iOS Development" module, Olympiad Programming Center, Kazan Federal University (Objective-C Foundation, MVC)
+
+---
+
+📃  <a href="Anthony%20Butinov%20-%20Web%20Developer%2C%20Graphic%20Designer%20-%20Resume.pdf">Complete Resume (.pdf)</a>
