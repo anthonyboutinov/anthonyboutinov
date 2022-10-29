@@ -40,6 +40,7 @@ Kazan Federal University, Applied Mathematics and Information Technology
 - Bulma, Bootstrap
 - JavaScript	
 - VueJS
+- MySQL
 - Blaze
 - Swift, SwiftUI
 - Git, GitHub
