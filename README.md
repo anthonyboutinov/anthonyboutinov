@@ -13,7 +13,7 @@
 - Website: <a href="https://boutinov.com">boutinov.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/boutinov">@boutinov</a>
 - Telegram: <a href="https://t.me/boutinov">@boutinov</a>
-- E-mail: <a href="mailto:anton4488@gmail.com">anton4488@gmail.com</a>
+- E-mail: <a href="mailto:boutinov@icloud.com">boutinov@icloud.com</a>
 <!-- - WhatsApp: <a href="https://wa.me/31626191937">+31 6 26 1919 37</a> -->
 
 ---
@@ -32,7 +32,7 @@ Kazan Federal University, Applied Mathematics and Information Technology
 
 ---
 
-#### 🛠  Key Software Skills
+#### 🛠  Toolkit
 
 - Illustrator, Photoshop
 - Figma, Sketch
@@ -44,14 +44,13 @@ Kazan Federal University, Applied Mathematics and Information Technology
 - Blaze
 - Swift, SwiftUI
 - Git, GitHub
-- MongoDB
 - MeteorJS
 - Final Cut Pro
 - Wordpress (as headless CMS)
 
 ---
 
-#### 🧠  Key Skills
+#### 🧠  Skills
 
 - Front-End Web Development
 - UX & UI
