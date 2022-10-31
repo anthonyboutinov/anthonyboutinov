@@ -22,7 +22,7 @@
 
 #### 👨‍🎓  Higher Education (Bachelor of ICT)
 
-Kazan Federal University, Applied Mathematics and Information Technology
+Institute of Computational Mathematics and Information Technologies, Kazan Federal University: Applied Mathematics and Information Technology
 
 ---
 
@@ -36,36 +36,35 @@ Kazan Federal University, Applied Mathematics and Information Technology
 
 #### 🛠  Toolkit
 
+- VueJS
+- Bulma, Bootstrap
+- Headless Wordpress
 - Illustrator, Photoshop
 - Figma, Sketch
 - HTML5/CSS3/SCSS
-- Bulma, Bootstrap
 - JavaScript	
-- VueJS
 - MySQL
-- Blaze
 - Swift, SwiftUI
 - Git, GitHub
-- MeteorJS
 - Final Cut Pro
-- Wordpress (as headless CMS)
 
 ---
 
 #### 🧠  Skills
 
 - Front-End Web Development
+- Responsive Design
 - UX & UI
 - User Interface Prototyping 
 - Accessibility
 - OOP
 - REST API
 - Relational & Document-Based Databases
-- Functional Programming
-- Responsive Design 
+- Functional Programming 
 - Brand Identity
 - Logo Design
 - Typography
+- Packaging Design
 - Kanban, Scrum
 
 ---
@@ -80,7 +79,7 @@ Kazan Federal University, Applied Mathematics and Information Technology
 
 #### 👨‍🏫  Teaching Experience
 
-2014, "Intoduction to iOS Development" module, Olympiad Programming Center, Kazan Federal University (Objective-C Foundation, MVC)
+2014, "Introduction to iOS Development" module, Olympiad Programming Center, Kazan Federal University (Objective-C Foundation, MVC)
 
 ---
 
