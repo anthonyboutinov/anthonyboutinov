@@ -41,11 +41,13 @@ Institute of Computational Mathematics and Information Technologies, Kazan Feder
 - Headless Wordpress
 - Illustrator, Photoshop
 - Figma, Sketch
-- HTML5/CSS3/SCSS
-- JavaScript	
+- HTML5, CSS3, SCSS
+- JavaScript ES6
 - MySQL
+- MongoDB
 - Swift, SwiftUI
-- Git, GitHub
+- Git
+- Node.JS
 - Final Cut Pro
 
 ---
@@ -57,7 +59,7 @@ Institute of Computational Mathematics and Information Technologies, Kazan Feder
 - UX & UI
 - User Interface Prototyping 
 - Accessibility
-- OOP
+- Object Oriented Programming
 - REST API
 - Relational & Document-Based Databases
 - Functional Programming 
